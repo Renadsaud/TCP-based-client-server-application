@@ -10,11 +10,15 @@ A socket can be defined as an endpoint present in a two-way communication link (
   
 ## What is TCP?
 The transmission control protocol is a transport layer connection-oriented protocol that defined the standard of establishing and maintaining the conversation (or sockets) that will be used by the applications to exchange the data.
+  <div>
+     <img src="https://i.ibb.co/5FBJYsJ/basic-transmission-and-working-of-transport-layer.jpg" alt="basic-transmission-and-working-of-transport-layer" border="0">
 
 ## What is Client-server Model or Architecture?
 The client-server network model or architecture is one of the most widely used networking models. In the client-server network, the files are not stored on the hard drive of each computer system.
 
 In a client-server network, there is a specific server and specific clients connected to the server. A server is always ON so client machines can access the files and resources without caring whether the server computer system is ON or not.
+<div>
+  <img src="https://i.ibb.co/XZth6j3/client-server-network-model.jpg" alt="client-server-network-model" border="0">
 
 ## Why did we use the TCP protocol?
 One of the prime reasons for using the transmission control protocol over other protocol(s) like UDP is that the TCP ensures the reliable transmission and delivery of our data packets.

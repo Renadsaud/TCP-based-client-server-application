@@ -5,7 +5,7 @@ A project that develops a simple TCP-based client-server application, using Java
 The communication between different processes on the same nodes or different nodes is done using the concept of a socket. A socket is a structure that allows communication between processes i.e. sending and receiving data over a network.
 A socket can be defined as an endpoint present in a two-way communication link (present between two processes running on the network).
 <div>
-  <img scr="![64FE2638-5124-4894-9D29-D15BED4069B0_1_201_a](https://github.com/NeehalSaleh/NFA-DFA-LL-1-parser/assets/95434316/f204e1e3-ac42-4fb5-b028-6d707408e2a5)
+  <img scr="https://github.com/NeehalSaleh/NFA-DFA-LL-1-parser/assets/95434316/f204e1e3-ac42-4fb5-b028-6d707408e2a5
 " width="400" height="200">
 <div>
   

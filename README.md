@@ -35,3 +35,6 @@ And when the client is connected we start the communication and wait for till th
 The client will be Creating a stream socket and connect it to the specific port number at the IP address and then start the communication and sending input.
 
 For the steps of setting up the network, we set up two hosts by using two laptops one for a client and one for a server. We used wireless technology, we connect two Computers using the same wireless access point. After, We got the IP address for the server. finally, We put the IP in the client code, and then will the connection will complete successfully.
+  
+  
+ # For more details please check the PDF
